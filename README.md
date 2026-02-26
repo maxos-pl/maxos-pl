@@ -7,11 +7,10 @@
 ---
 
 ### 📖 O mnie
-Jestem programistą, który stawia na czysty kod i efektywne rozwiązania. Specjalizuję się w technologiach backendowych, takich jak **Python** i **Java**, ale równie chętnie rozwijam aplikacje mobilne w **Kotlinie** oraz systemy desktopowe w **C#**. Moim celem jest ciągły rozwój i tworzenie projektów, które mają realny wpływ na użytkowników.
+Jestem programistą, który stawia na czysty kod i efektywne rozwiązania. Specjalizuję się w technologiach backendowych, takich jak **Python** i **Java**, ale równie chętnie rozwijam aplikacje mobilne w **Kotlinie** oraz systemy desktopowe w **C#**.
 
 - 🚀 **Nad czym teraz pracuję:** Rozwijam własne projekty i zgłębiam architekturę systemów.
 - 🎓 **Czego się uczę:** Zaawansowanych wzorców projektowych oraz technologii chmurowych.
-- 💡 **Moja filozofia:** Automatyzacja wszystkiego, co da się zautomatyzować.
 - 📫 **Kontakt:** Możesz mnie złapać na Telegramie lub przez e-mail.
 
 ---
@@ -25,19 +24,19 @@ Jestem programistą, który stawia na czysty kod i efektywne rozwiązania. Specj
 
 ---
 
-### 📊 Statystyki i Aktywność
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxos-pl&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxos-pl&layout=compact&theme=tokyonight" />
-</p>
-
+### 📊 Moja aktywność
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maxos-pl&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxos-pl&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxos-pl&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-### 🔥 Moja systematyczność (Streak)
+### 🔥 Systematyczność
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxos-pl&theme=tokyonight" alt="GitHub Streak" />
 </p>
