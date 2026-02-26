@@ -23,6 +23,28 @@ Jestem programistą, który stawia na czysty kod i efektywne rozwiązania. Specj
 </p>
 
 ---
+---
+
+### 🎯 Moje cele na rok 2026
+- [ ] Certyfikacja z zakresu architektury mikroserwisów
+- [ ] Wydanie pierwszej aplikacji mobilnej w Kotlin w Google Play
+- [ ] Kontrybucja do dużych projektów Open Source
+
+---
+
+### 🛠️ Codzienne narzędzia (Workflow)
+<p align="left">
+<img src="https://img.shields.io/badge/IDE-VS%20Code%20%2F%20IntelliJ-blue?style=flat-square&logo=visual-studio-code" />
+<img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-lightgrey?style=flat-square&logo=linux" />
+<img src="https://img.shields.io/badge/Terminal-Zsh%20%2F%20PowerShell-black?style=flat-square&logo=gnumetadata" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maxos-pl/maxos-pl/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ### 📊 Moja aktywność
 <p align="center">
