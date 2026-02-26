@@ -7,31 +7,33 @@
 ---
 
 ### 📖 O mnie
-Jestem programistą, który lubi budować solidne i skalowalne rozwiązania. Moje doświadczenie obejmuje zarówno backend w **Pythonie** i **Javie**, jak i rozwój aplikacji mobilnych w **Kotlinie** oraz narzędzi desktopowych w **C#**. Nie boję się też pracy z frontendem (**HTML/CSS**).
+Jestem programistą, który stawia na czysty kod i efektywne rozwiązania. Specjalizuję się w technologiach backendowych, takich jak **Python** i **Java**, ale równie chętnie rozwijam aplikacje mobilne w **Kotlinie** oraz systemy desktopowe w **C#**. Moim celem jest ciągły rozwój i tworzenie projektów, które mają realny wpływ na użytkowników.
 
-- 🔭 **Obecnie pracuję nad:** [Wpisz nazwę projektu lub "rozwojem własnego portfolio"]
-- 🌱 **Uczę się teraz:** Zaawansowanych wzorców projektowych i [np. architektury chmurowej]
-- ⚡ **Ciekawostka:** Uwielbiam optymalizować kod tak długo, aż będzie idealnie czysty.
-- 💬 **Zapytaj mnie o:** Python, Java, Kotlin lub C#. Chętnie pomogę!
+- 🚀 **Nad czym teraz pracuję:** [Wpisz nazwę projektu lub "Rozwijam własne projekty"]
+- 🎓 **Czego się uczę:** Zaawansowanej architektury systemów i [np. chmury AWS/Azure]
+- 💡 **Moja filozofia:** Automatyzacja wszystkiego, co da się zautomatyzować.
+- 📫 **Kontakt:** Możesz mnie złapać na Telegramie lub przez e-mail.
 
 ---
 
-### 🛠 Mój stos technologiczny
+### 🏆 Moje Trofea (GitHub Trophies)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxos-pl&theme=tokyonight&margin-w=15&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🛠 Stos technologiczny (Tech Stack)
 
 | Kategoria | Technologie |
 | :--- | :--- |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bazy danych** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
-| **Narzędzia** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Narzędzia i Bazy** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
-### 🏆 Moje osiągnięcia i statystyki
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxos-pl&theme=tokyonight&margin-w=15" alt="trophies" />
-</p>
-
+### 📈 Statystyki i Aktywność
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxos-pl&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxos-pl&layout=compact&theme=tokyonight" />
@@ -43,15 +45,17 @@ Jestem programistą, który lubi budować solidne i skalowalne rozwiązania. Moj
 
 ---
 
-### 📈 Aktywność (Streak)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxos-pl&theme=tokyonight)
+### 🔥 Moja systematyczność (Streak)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxos-pl&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Kontakt ze mną
+### 📫 Znajdź mnie tutaj:
 <p align="left">
-<a href="https://t.me/<TWÓJ_TG>"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:twoj_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/@MAXXXOS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:kraskakirill@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/<TWÓJ_LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
