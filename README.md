@@ -29,22 +29,22 @@ Jestem programistą, który lubi budować solidne i skalowalne rozwiązania. Moj
 
 ### 🏆 Moje osiągnięcia i statystyki
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<maxos-pl>&theme=tokyonight&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maxos-pl&theme=tokyonight&margin-w=15" alt="trophies" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=<maxos-pl>&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<maxos-pl>&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxos-pl&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxos-pl&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=<maxos-pl>&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maxos-pl&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📈 Aktywność (Streak)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<maxos-pl>&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxos-pl&theme=tokyonight)
 
 ---
 
