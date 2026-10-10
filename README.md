@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Kirill%20%7C%20Maxos&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Desktop%20Developer&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/maxos-pl/maxos-pl/main/assets/header.svg" width="100%" alt="Kirill | Maxos Header" />
 </div>
 
 <div align="center">
